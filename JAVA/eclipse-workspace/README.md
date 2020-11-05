@@ -1,2 +1,0 @@
-# JAVA
-JAVA Basic Study

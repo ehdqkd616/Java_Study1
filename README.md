@@ -1,2 +1,2 @@
-# JAVA_Git
- 
+# JAVA
+JAVA Basic Study
